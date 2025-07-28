@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="email">email</string>
+    <string name="Hoten">Hoten</string>
+    <string name="submit">submit</string>
+    <string name="result_message">Kết quả: %d</string>
+</resources>
