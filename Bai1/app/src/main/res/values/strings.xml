@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="NhapA">Nhap A</string>
+    <string name="result_message">Kết quả: %d</string>
+    <string name="demo_constrain">Demo_Constrain</string>
+    <string name="nhap_b">Nhap B</string>
+    <string name="tong">Tong</string>
+</resources>
