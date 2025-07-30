@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Project_cal</string>
+    <string name="calculator">Calculator</string>
+    <string name="_0">0</string>
+    <string name="nh_p_a">Nhập a</string>
+    <string name="t_ng">Tổng</string>
+    <string name="hi_u">Hiệu</string>
+    <string name="t_ch">Tích</string>
+    <string name="th_ng">Thương</string>
+</resources>

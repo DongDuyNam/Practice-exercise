@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quadratic Equation</string>
+    <string name="gi_i_ph_ng_tr_nh_b_c_2">Giải phương trình bậc 2</string>
+    <string name="ti_p_t_c">Tiếp tục</string>
+    <string name="nh_p_gi_tr_c">Nhập giá trị c</string>
+    <string name="gi_i_pt">Giải PT</string>
+    <string name="tho_t">Thoát</string>
+    <string name="nh_p_c">Nhập c:</string>
+    <string name="nh_p_b">Nhập b:</string>
+    <string name="nh_p_gi_tr_a">Nhập giá trị a</string>
+    <string name="nh_p_a">Nhập a:</string>
+</resources>
